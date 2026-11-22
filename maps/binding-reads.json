@@ -1,0 +1,1 @@
+{"missing":["tests/test_parser.py::TestParser::test_max_nodes"],"mod":{"sqlglot.generators.bigquery":{"__dict__":["tests/dialects/test_bigquery.py::TestBigQuery::test_pushdown_cte_column_names"]}}}
